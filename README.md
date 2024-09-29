@@ -9,17 +9,17 @@ Our focus is to provide you with real-world examples of how graphs are being app
 
 ## **Table of Contents**
 1. [Graph Use Cases](#graph-use-cases)
-   - [Fraud Detection](#1-fraud-detection)
-   - [Social Network Analysis](#2-social-network-analysis)
-   - [Supply Chain Management](#3-supply-chain-management)
-   - [Recommendation Systems](#4-recommendation-systems)
-   - [Biological Network Analysis](#5-biological-network-analysis)
+   - [Fraud Detection](#fraud-detection)
+   - [Social Network Analysis](#social-network-analysis)
+   - [Supply Chain Management](#supply-chain-management)
+   - [Recommendation Systems](#recommendation-systems)
+   - [Biological Network Analysis](#biological-network-analysis)
 2. [Graph Datasets](#graph-datasets)
-   - [Enron Email Dataset](#1-enron-email-dataset)
-   - [Amazon Product Co-purchasing Network](#2-amazon-product-co-purchasing-network)
-   - [COVID-19 Open Research Dataset (CORD-19)](#3-covid-19-open-research-dataset-cord-19)
-   - [Facebook Social Circles](#4-facebook-social-circles)
-   - [World Trade Network Dataset](#5-world-trade-network-dataset)
+   - [Enron Email Dataset](#enron-email-dataset)
+   - [Amazon Product Co-purchasing Network](#amazon-product-co-purchasing-network)
+   - [COVID-19 Open Research Dataset (CORD-19)](#covid-19-open-research-dataset-cord-19)
+   - [Facebook Social Circles](#facebook-social-circles)
+   - [World Trade Network Dataset](#world-trade-network-dataset)
 
 ---
 
