@@ -129,4 +129,22 @@ A dataset on global trade between countries, ideal for analyzing trade flows, ec
 ## **Explore the Graph Universe**
 Whether you're analyzing a complex supply chain or trying to detect fraud in a massive transaction network, **Graph Explorer** is your go-to resource for real-world graph use cases and the datasets to support them. Dive into the world of graphs and unlock the hidden potential of your data!
 
-Happy Exploring! 😊
+---
+
+## Contributing
+
+Contributions are welcome! If you know of any graph usecases and datasets, that should be included, feel free to submit a pull request or open an issue.
+
+Please follow the [contribution guidelines](CONTRIBUTING.md) to maintain the quality and consistency of graph explorer.
+
+---
+
+## License
+
+[![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+This repository is licensed under CC0 1.0 Universal, which means you can freely use and contribute to this project.
+
+---
+
+Happy Graph Exploring! 😊
